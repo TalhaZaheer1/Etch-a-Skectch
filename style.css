@@ -1,0 +1,12 @@
+:root{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.board{
+    width: 500px;
+    height:500px;
+    display: grid;
+    border: 5px solid black;
+    
+}
